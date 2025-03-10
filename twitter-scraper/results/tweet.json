@@ -5,10 +5,10 @@
   "attached_media": null,
   "tagged_users": [],
   "tagged_hashtags": [],
-  "favorite_count": 14,
+  "favorite_count": 13,
   "bookmark_count": 1,
-  "quote_count": 7,
-  "reply_count": 46,
+  "quote_count": 6,
+  "reply_count": 44,
   "retweet_count": 2,
   "text": "Which came first, the chicken or the chicken egg?",
   "is_quote": false,
@@ -18,7 +18,7 @@
   "id": "1621310291030974465",
   "conversation_id": "1621310291030974465",
   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-  "views": "29451",
+  "views": "29559",
   "poll": {
     "choice1_label": "Chicken",
     "choice2_label": "Egg",
@@ -40,26 +40,26 @@
     "created_at": "Fri Jul 27 00:20:08 +0000 2007",
     "default_profile": false,
     "default_profile_image": false,
-    "description": "Let’s skip witty repartee & discuss fundamental questions. Views are mine, not GMU’s or Virginia’s. Books: https://t.co/hpZgEm5DBI, https://t.co/iFs9C3J2Ek",
+    "description": "Let�s skip witty banter & talk deep Qs. \nBooks: https://t.co/hpZgEm55Ma https://t.co/iFs9C3IuOM \nChief Scientist @_futarchy Advisor @MetaDAOProject @butterygg",
     "entities": {
       "description": {
         "urls": [
           {
             "display_url": "ageofem.com",
             "expanded_url": "http://ageofem.com",
-            "url": "https://t.co/hpZgEm5DBI",
+            "url": "https://t.co/hpZgEm55Ma",
             "indices": [
-              107,
-              130
+              48,
+              71
             ]
           },
           {
             "display_url": "elephantinthebrain.com",
             "expanded_url": "http://elephantinthebrain.com",
-            "url": "https://t.co/iFs9C3J2Ek",
+            "url": "https://t.co/iFs9C3IuOM",
             "indices": [
-              132,
-              155
+              72,
+              95
             ]
           }
         ]
@@ -69,7 +69,7 @@
           {
             "display_url": "hanson.gmu.edu",
             "expanded_url": "http://hanson.gmu.edu",
-            "url": "https://t.co/Lu2Vsu8ERq",
+            "url": "https://t.co/Lu2Vsu871S",
             "indices": [
               0,
               23
@@ -79,25 +79,25 @@
       }
     },
     "fast_followers_count": 0,
-    "favourites_count": 60344,
-    "followers_count": 84955,
-    "friends_count": 635,
+    "favourites_count": 79229,
+    "followers_count": 107532,
+    "friends_count": 696,
     "has_custom_timelines": true,
     "is_translator": false,
-    "listed_count": 1602,
+    "listed_count": 1766,
     "location": "Fairfax, VA",
-    "media_count": 505,
+    "media_count": 634,
     "name": "Robin Hanson",
-    "normal_followers_count": 84955,
+    "normal_followers_count": 107532,
     "pinned_tweet_ids_str": [],
     "possibly_sensitive": false,
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/7748752/1630771768",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/1594890960751808514/XpfG6Wbq_normal.jpg",
     "profile_interstitial_type": "",
     "screen_name": "robinhanson",
-    "statuses_count": 52588,
+    "statuses_count": 62589,
     "translator_type": "none",
-    "url": "https://t.co/Lu2Vsu8ERq",
+    "url": "https://t.co/Lu2Vsu871S",
     "withheld_in_countries": []
   }
 }

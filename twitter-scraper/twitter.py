@@ -14,6 +14,10 @@ from typing import Dict
 from loguru import logger as log
 from scrapfly import ScrapeConfig, ScrapflyClient
 
+
+# this was a line I had to add to get the key working - push1
+os.environ['SCRAPFLY_KEY'] = 'scp-live-cb9ab65d87354d5eaa4fce695f4d2cfd'
+
 SCRAPFLY = ScrapflyClient(key=os.environ["SCRAPFLY_KEY"])
 BASE_CONFIG = {
     # X.com (Twitter) requires Anti Scraping Protection bypass feature.

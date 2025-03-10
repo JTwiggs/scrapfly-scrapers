@@ -30,7 +30,7 @@ This Twitter.com scraper uses __Python 3.10__ with [scrapfly-sdk](https://pypi.o
 0. Ensure you have __Python 3.10__ and [poetry Python package manager](https://python-poetry.org/docs/#installation) on your system.
 1. Retrieve your Scrapfly API key from <https://scrapfly.io/dashboard> and set `SCRAPFLY_KEY` environment variable:
     ```shell
-    $ export SCRAPFLY_KEY="YOUR SCRAPFLY KEY"
+    $ export SCRAPFLY_KEY="scp-live-cb9ab65d87354d5eaa4fce695f4d2cfd"
     ```
 2. Clone and install Python environment:
     ```shell
